@@ -1,0 +1,14 @@
+# Compilados/binarios
+*.o
+*.obj
+*.exe
+*.out
+
+# Carpeta de compilacion
+build/
+buildasan/
+
+
+# Configuraciones de IDE
+.vscode/
+
